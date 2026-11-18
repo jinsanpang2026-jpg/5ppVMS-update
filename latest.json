@@ -1,0 +1,8 @@
+{
+    "version":  "1.3.1",
+    "publishedAt":  "2026-11-18 20:31:03",
+    "notes":  "新增在线更新模块：界面内一键检查/下载/校验/替换并自动重启；只更新程序文件，保留数据与凭据。",
+    "url":  "https://raw.githubusercontent.com/jinsanpang2026-jpg/5ppVMS-update/main/video-station-1.3.1.zip",
+    "sha256":  "54fd3cba906fd90fb9ecf460169a5e377a960b5f0039dee6f3e6381c3f292e5c",
+    "size":  13054891
+}
